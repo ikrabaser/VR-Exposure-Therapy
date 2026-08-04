@@ -9,3 +9,5 @@
 *.sln
 *.user
 *.tmp
+.vsconfig
+UpgradeLog.htm
