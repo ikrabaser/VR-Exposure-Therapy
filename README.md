@@ -1,8 +1,5 @@
 # 🧠 NEUROPHOBIA
 
-
-Leyla İkra Başer - 233255017
-
 Bu proje sanal gerçeklik teknolojilerinin psikolojik terapi alanındaki kullanımını araştırmak amacıyla geliştirilmiştir.
 
 ## VR Height Exposure Therapy Simulation
